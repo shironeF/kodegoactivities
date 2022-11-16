@@ -1,0 +1,655 @@
+<html lang="en"><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js"></script><script async="false" type="text/javascript" src="chrome-extension://fnjhmkhhmkbjkkabndcnnogagogbneec/in-page.js"></script><head>
+    <meta charset="utf-8">
+	<meta name="description" content="Quality Is Our Recipe">
+    <meta name="keywords" content="Wendys, wendys, Wendy’s, wendy’s, wendys delivery, Wendys delivery, Wendy’s Delivery, Spaghetti,Sandwich,Chili,Healthy Salads,Frosty,Fries,Breakfast,Fambox,Whattabox,Burger,Fried Chicken,spaghetti,sandwich,chili,healthy salads,frosty,fries, breakfast,fambox,whattabox,burger,fried chicken,Dave's Single Burger,Baconator,Dave's Double Burger,Dave's Triple Burger,Bacon Mushroom Melt,Chili n Potato,dave's single burger,baconator,dave's double burger,dave's triple burger,bacon mushroom melt,chili n potato">
+    <meta name="author" content="Wendy’s">
+	<meta property="description" content="Welcome to the official website of Wendy’s Philippines!">
+    <meta property="og:title" content="Home | Wendy's Philippines">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Welcome to the official website of Wendy’s Philippines!">
+    <meta property="og:image" content="https://wendys.com.ph/images/logo_redhead.png">
+    <meta property="og:url" content="https://www.wendys.com.ph">
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="ovHS2MNkGF3DK8n0GnAcz19CJu2xWTF9PwydbNjA">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Wendy's Philippines® | Home of Fresh,
+        Never Frozen Beef Since 1969</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="shortcut icon" href="https://www.wendys.com.ph/images/favicon.ico">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://www.wendys.com.ph/css/custom.css">
+    <link rel="stylesheet" href="https://www.wendys.com.ph/css/slider.css">
+    <link rel="stylesheet" href="https://www.wendys.com.ph/css/login.css">
+    <!-- Toastr -->
+    <link rel="stylesheet" href="https://www.wendys.com.ph/plugins/toastr/toastr.min.css">
+	    <!-- SweetAlert2 -->
+    <link rel="stylesheet" href="https://www.wendys.com.ph/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
+    <style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style></head>
+
+<body class="" style="">
+    <div id="app">
+        <div class="modal fade" id="privacy" tabindex="-1" data-keyboard="false" data-backdrop="static" style="display: none;" aria-hidden="true">
+            <input type="hidden" value="" id="sid">
+            <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+                <div class="modal-content border-0">
+                    <div class="modal-header bg-cgreen">
+                        <span class="modal-title"><h3>WENDY'S DATA PRIVACY POLICY</h3> </span>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-12 col-sm-10 mx-auto form-group">
+                                <h3>Privacy Statement</h3>
+                                <p>Wenphil Corporation and its subsidiaries, affiliates, and related companies, (collectively, “Wendy's”) collects, processes and stores personal data about you when you avail of its products and services, its website, social media sites, newsletter and mobile applications, apply for a job, or enter into any contract with Wendy's provided that you have given your express consent.
+                                <br><br>This privacy policy has been prepared to better serve any person who avails of the Products and Services of Wendy's to inform them on how their personal data are being collected, used and secured by Wendy's. Please read this privacy policy carefully to get a clear understanding of how Wendy's collects, uses, protects or otherwise handles your personal data in accordance with Republic Act No. 10173, or the Data Privacy Act of 2012, and its Implementing Rules and Regulations (collectively, the “Data Privacy Act”).
+                                </p>
+                                <h3>Collection of Personal Data</h3>
+                                <p>
+                                    Wendy's collects information you provide directly to it, such as when you order on-line, use our direct online payment facility, use our mobile applications, engage us in other events, respond to a survey, register, create or modify your accounts in any of its websites and/or mobile applications, newsletter, contact support, apply for a job, enter into any contract with Wendy’s or otherwise communicate or interact with Wendy's. Wendy's may also collect information from Personal Information Controllers (PIC) in its capacity as a Personal Information Processor (PIP).
+                                    <br><br>The following personal data may be collected: your name, age, nationality, civil status, mailing/ billing address, email address, phone number, credit card information or other details to help you with your experience.
+                                    <br><br>During your registration for online ordering as a customer, apply for a job and engage us to other events and contracts additional data may be collected including but not limited to: company name, family background, educational background, employment record, medical records, and information obtained through interviews, and other examinations.
+
+                                </p>
+                                <h3>Use and Processing of Personal Data</h3>
+                                <p>
+                                Wendy's may use and process the personal data collected about you to allow you to participate in its Services. Wendy's uses your personal data in providing Products and Services, to process your orders, to personalize the delivery of content to you. All the information we collect from you will be for statistical purposes, security and demographic purposes. At all times, your personal data shall not be used or processed for any purpose that is contrary to law.
+                                </p>
+                                <h3>Sharing of Personal Data</h3>
+                                <p>Wendy's may share personal data between and among the entities comprising the same to enable them to provide you personalized Services. Wendy's may also share personal data with vendors, consultants, marketing partners, and other service providers who need access to such information to carry out work on behalf of Wendy's. If and when it becomes necessary, a data sharing agreement shall cover any sharing of data between and among Wendy's and/or its vendors, consultants, marketing partners, and other service providers. Wendy's may also share information in accordance with any order from any relevant government agency as provided by law.</p>
+                                <h3>Storage and Protection of Personal Data</h3>
+                                <p>Wendy's has instituted policies and procedures which intend to protect personal data which it has collected and continues to collect. These include securing any document containing personal data in paper and electronic formats, including databases, and limiting access to personnel who have a legitimate interest in them for the purpose of carrying out their duties in delivering the Products and Services.
+                                <br><br>While there will always be a risk of unauthorized disclosure of personal data, Wendy's believes that the foregoing safeguards are sufficient to prevent the occurrence of such risk and is committed to updating and improving such safeguards in order to protect your personal data in compliance with the Data Privacy Act.
+                                </p>
+                                <h3>Use of Cookies</h3>
+                                <p>Please note that in visiting Wendy's websites, cookies are utilized. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. Wendy's also uses cookies to help it compile aggregate data about site traffic and site interaction so that Wendy's can offer better site experiences and tools in the future.
+                                <br><br>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since the browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies. If you turn cookies off, some features will be disabled. Some of the features that make your site experience more efficient and may not function properly.
+                                </p>
+                                <h3>Your Rights under the Data Privacy Act</h3>
+                                <p>As a data subject, you have the following rights under the Data Privacy Act:
+                                You have the right to be informed of the collection and processing of your personal data, the purpose for which they will be processed, among others. Thus, you are required to read this privacy policy before giving your consent to the collection and processing of your personal data. If you have questions, please do not hesitate to ask us questions or clarifications and you may also contact our Data Protection Officer;
+                                <br><br>You have the right to object to the processing of your personal data. You will be given an option or opportunity to withhold your consent to the processing of your personal data whenever Wendy's communicates with you or by notifying our Data Protection Officer; You have the right to have reasonable access to your personal data by notifying our Data Protection Officer;
+                                You have the right to rectify or correct any inaccuracy or error in your personal data by submitting your request for rectification or correction to our Data Protection Officer;
+                                <br><br>You have the right to suspend, withdraw or order the blocking, removal or destruction of your personal data in accordance with the requirements of the Data Privacy Act. Please notify our Data Protection Officer if you wish to exercise this right;
+                                You have the right to obtain a copy of your data in an electronic or structured format if the same is processed by electronic means and in a structured and commonly used format by submitting your request to our Data Protection Officer; and
+                                You have the right to be indemnified if you incur damages due to inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of your personal data.
+                                <br><br><b>Changes to the Privacy Policy</b>
+                                <br><br>Wendy's may change this Privacy Policy from time to time. If Wendy's makes any significant change in the collection, use, and protection of personal data, Wendy's will provide you notice through the Services or by some other means, such as through Wendy's website and/or email
+                                <br><br><b>Contacting Us</b>
+                                <br><br>If there are any questions regarding this privacy policy, you may contact our Data Protection Officer with the following contact details:
+                                <br><br><b>Title/Designation</b>: Data Protection Officer
+                                <br><br><b>Postal Address</b>: Data Privacy Office Lot 91B Bagsakan Road, Special Economic Zone FTI Complex Taguig City
+                                <br><br><b>Email Address</b>: <a href="mailto:dpo@wendys.com.ph">dpo@wendys.com.ph</a>
+                                <br><br><b>Cookie Notice</b>: We use cookies on this site to improve your user experience. By continuing to use this site, you agree with our Privacy Policy, including Data use and Cookie use. For more information about how we use cookies and your submitted information, please click here.</p>
+                                <br>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <div class="col-12 col-sm-3 ml-auto">
+                            <button class="btn btn-sm btn-login btn-block" data-dismiss="modal" id="agreeDPC">I Agree</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- CHANGES -->
+    <section id="overlaymenu">
+        <div id="myNav" class="overlay">
+          <!-- Button to close the overlay navigation -->
+          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+
+          <!-- Overlay content -->
+          <div class="overlay-content">
+            <ul>
+                <li><a class="nav-link" href="https://www.wendys.com.ph/menu">View our menu</a></li>
+				<li><a class="nav-link" href="https://www.wendys.com.ph/whoWeAre">Who we are</a></li>
+                <li><a class="nav-link " href="https://www.wendys.com.ph/ourStores">Our stores</a></li>
+                <li><a class="nav-link" href="https://www.wendys.com.ph/direct/online/payment/form">Online Payment</a></li><li>
+                </li><li><a class="nav-link" href="https://www.wendys.com.ph/search">Search</a></li>
+                <li><a class="nav-link" href="tel:+63285333333">Call our Hotline</a></li>
+                
+                            </ul>
+          </div>
+        </div>
+    </section>
+    <!-- END CHANGES -->
+    <section id="menu-desktop">
+            <div class="fixed-top" style="">
+                <div class="navbar navbar-expand-lg navbar-light  bg-light">
+                    <div class="container">
+                        <a class="nav-link" id="web-logo" href="https://www.wendys.com.ph" style="top:50%"><img src="https://www.wendys.com.ph/images/logo_redhead.png" width="50%"></a>
+                        <ul class="navbar-nav float-right">
+                            <li class="nav-item ">
+                                <span class="default">
+                                    <a href="https://www.wendys.com.ph/search" target="_self" class="menu-icon icon--icon-search replace-search" title="">Search</a>
+                                </span>
+                            </li>
+                            <li class="nav-item">
+                                                                                                                                    <span class="default default2">
+                                    <div class="btn-group">
+                                        <a href="https://www.wendys.com.ph/cart" id="trayicon" title="Go to Food Tray">
+                                            <i class="fas fa-concierge-bell"></i>
+                                        </a>
+                                    </div>
+                                </span>
+                            </li>
+                                                            <li class="nav-item">
+                                    <a class="nav-link" href="https://www.wendys.com.ph/signup"><button type="button" class="btn btn-blue-light">Sign Up</button></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" data-toggle="modal" data-target="#login"><button type="button" class="btn btn-blue-dark">Login</button></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://www.wendys.com.ph/direct/online/payment/form"><button type="button" class="btn btn-blue-dark">Online Payment</button></a>
+                                </li>
+                                <li class="nav-item">
+                                     <a class="nav-link" href="tel:+63285333333"><button type="button" class="btn btn-blue-almost-dark">Call our Hotline</button></a>
+                                   
+                                </li>
+                               
+                                                    </ul>
+                    </div>
+                </div>
+                <div class="row menu-red">
+                    <div class="container">
+                        <ul class="navbar-nav  ">
+                            <li class="nav-item ">
+                                <a class="nav-link" href="https://www.wendys.com.ph/menu">VIEW
+                                    OUR MENU</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.wendys.com.ph/whoWeAre">WHO WE ARE</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="https://www.wendys.com.ph/ourStores">OUR STORES</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+    </section></div>
+    
+    <!-- CHANGES -->
+    <section id="menu-mobile">
+                <nav class="navbar navbar-light" style="width:100%">
+        <nav class="navbar navbar-light" style="width:85%">
+          <a class="navbar-brand" href="https://www.wendys.com.ph">
+            <img src="https://www.wendys.com.ph/images/wendys-logo.svg" width="70%">
+          </a>
+          <ul class="navbar-nav navbar-nav-mobile " style="margin-top:-5%">
+                        <li class="nav-item mobile-adjust">
+                                                                                                                    <span class="default default2">
+                                <a href="https://www.wendys.com.ph/cart" id="trayicon" title="Go to Food Tray">
+                                    <i class="fas fa-concierge-bell"></i>
+                                </a>
+                            </span>
+                        </li>
+                    </ul>
+
+        </nav>
+        <nav class="navbar navbar-light" style="width:15%;margin-top:18px">
+            <button class="navbar-toggler" type="button" onclick="openNav()">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+        </nav>
+        </nav>
+
+        <div class="row menu-gray">
+            <div class="container" style="margin-top:1rem; margin-bottom:1rem;">
+                <a class="nav-link" href="https://www.wendys.com.ph/signup"><button type="button" class="btn btn-blue-light-mobile">SIGN
+                        UP</button></a>
+                <a class="nav-link " href="javascript:void(0)"><button type="button" class="btn btn-blue-dark-mobile" data-toggle="modal" data-target="#login">LOGIN</button></a>
+            </div>
+        </div>
+            </section>
+    <!-- END CHANGES -->
+    
+<section id="menu-desktop">
+    <!-- <a class="nav-link" href="https://www.wendys.com.ph/menu" style="padding: 0px;"><img src="https://www.wendys.com.ph/images/index/MainBreakfast.jpg" width="100%"></a> -->
+    <!--  <div id="demo" class="carousel slide" data-ride="carousel"> to have a autoslide-->
+    <div id="demo" class="carousel slide" data-ride="carousel">
+
+        <!-- Indicators  'counter' => $carousel_count, 'data' => $carousel_data -->
+        <ul class="carousel-indicators">
+                                                <li data-target="#demo" data-slide-to="0" class=""></li>
+                                                                <li data-target="#demo" data-slide-to="1" class=""></li>
+                                                                <li data-target="#demo" data-slide-to="2" class="active"></li>
+                                    </ul>
+
+        <!-- The slideshow -->
+        <div class="carousel-inner">
+                                                <div class="carousel-item">
+                        <a href="https://wendys.com.ph/menu/products/7"><img src="https://wendys.megabots.app/assets/images/slider/Peach_Litro_Iced_Tea_-_March_31,_2022.jpg" width="100%"></a>
+                    </div>
+                                                                <div class="carousel-item">
+                        <a href="https://wendys.com.ph/menu/products/10"><img src="https://wendys.com.ph/images/index/bogo2pts.jpg" width="100%"></a>
+                    </div>
+                                                                <div class="carousel-item active">
+                        <a href="https://wendys.com.ph/menu/products/11"><img src="https://wendys.com.ph/images/index/spicychicken.jpg" width="100%"></a>
+                    </div>
+                                    </div>
+
+        <!-- Left and right controls -->
+        <a class="carousel-control-prev" href="#demo" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#demo" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
+</section>
+<section id="menu-mobile">
+    <!-- <a class="nav-link" href="https://www.wendys.com.ph/menu" style="padding: 0px;"><img src="https://www.wendys.com.ph/images/index/MainBreakfast_Portrait2.jpg" width="100%"></a> -->
+    <!--  <div id="demo" class="carousel slide" data-ride="carousel"> to have a autoslide-->
+    <div id="demo" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ul class="carousel-indicators">
+                                                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                                                                <li data-target="#demo" data-slide-to="1" class=""></li>
+                                                                <li data-target="#demo" data-slide-to="2" class=""></li>
+                                    </ul>
+
+        <!-- The slideshow -->
+        <div class="carousel-inner">
+                                                <div class="carousel-item active">
+                        <a href="https://wendys.com.ph/menu/products/7"><img src="https://wendys.megabots.app/assets/images/slider/Peach_Litro_Iced_Tea_-_March_31,_2022.jpg" width="100%"></a>
+                    </div>
+                                                                <div class="carousel-item">
+                        <a href="https://wendys.com.ph/menu/products/10"><img src="https://wendys.com.ph/images/index/bogo2pts.jpg" width="100%"></a>
+                    </div>
+                                                                <div class="carousel-item">
+                        <a href="https://wendys.com.ph/menu/products/11"><img src="https://wendys.com.ph/images/index/spicychicken.jpg" width="100%"></a>
+                    </div>
+                                    </div>
+
+        <!-- Left and right controls -->
+        <a class="carousel-control-prev" href="#demo" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#demo" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
+</section>
+<br>
+<br>
+<section id="submenu-list">
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row product">
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/13">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu_category/promo.jpg">
+                                    <div class="caption-product">
+                                                                                    <p>Promo</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/17">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu_category/kfesta.jpg">
+                                    <div class="caption-product">
+                                                                                    <p>K-Festa Collection</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/18">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu_category/Whats_New_Thumbnail.jpg">
+                                    <div class="caption-product">
+                                                                                    <p>Whats New</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/9">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu_category/whattaboxs.jpg">
+                                    <div class="caption-product">
+                                                                                    <p>Whattabox</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/10">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/182.png">
+                                    <div class="caption-product">
+                                                                                    <p>Burgers</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/2">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/47.png">
+                                    <div class="caption-product">
+                                                                                    <p>Sandwich</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/11">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/322.png">
+                                    <div class="caption-product">
+                                                                                    <p>Fried Chicken</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/8">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/4.png">
+                                    <div class="caption-product">
+                                                                                    <p>Fambox</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/12">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/101.png">
+                                    <div class="caption-product">
+                                                                                    <p>Fambox Platters</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/4">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/59.png">
+                                    <div class="caption-product">
+                                                                                    <p>Healthy Salads</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/3">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/51.png">
+                                    <div class="caption-product">
+                                                                                    <p>Chili</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/1">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/1.png">
+                                    <div class="caption-product">
+                                                                                    <p>Spaghetti</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/5">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu_category/BMM_Rice_Bowl_(Solo).jpg">
+                                    <div class="caption-product">
+                                                                                    <div class="tooltips tooltips-top" data-tooltip="Available from 6AM to 10AM.">
+                                                <p>Breakfast</p>
+                                            </div>
+
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/6">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/83.png">
+                                    <div class="caption-product">
+                                                                                    <p>Frosty and Fries</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/7">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu/95.png">
+                                    <div class="caption-product">
+                                                                                    <p>Beverages</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/14">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu_category/VANILLA_Frosty-ccino_750x750.jpg">
+                                    <div class="caption-product">
+                                                                                    <p>Coffee</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/19">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu_category/Chipotle_BBQ_Beef_(Solo).jpg">
+                                    <div class="caption-product">
+                                                                                    <p>Rice Bowls</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 p-3">
+                        <div class="frame">
+                            <a href="https://www.wendys.com.ph/menu/products/15">
+                                <div class="product-container">
+                                    <img src="https://wendys.megabots.app/assets/images/menu_category/252.jpg">
+                                    <div class="caption-product">
+                                                                                    <p>Holiday Collection</p>
+                                                                            </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</section>
+    <footer>
+        <div class="container-fluid footer">
+            <div class="container">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <a href="https://www.wendys.com.ph"><img src="https://www.wendys.com.ph/images/logo_whitehead.png" class="d-block mx-auto" width="80%"></a><br>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="row ">
+                            <div class="col-md-4 col-sm-6 col-xs-6">
+                                <ul class="link">
+                                    
+                                    <li><a href="https://www.wendys.com.ph/contactUs">Contact Us</a></li>
+                                    
+                                    <li><a href="https://www.wendys.com.ph/privacy">Privacy Policy</a></li>
+                                    <li><a href="https://www.wendys.com.ph/terms">Terms and Conditions</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-6">
+                                <ul class="link">
+                                    
+
+                                </ul>
+                            </div>
+                            <div class="col-md-4 col-xs-12">
+                                <ul class="link li-inline">
+                                    <!--<li><a href="https://twitter.com/wendysph" target="_blank" title="Twitter"
+                                            aria-label="Twitter" style="color: white"><i
+                                                class="social-icon social--twitter social-icon social-twitter"
+                                                aria-hidden="true"></i></a></li>-->
+                                    <li><a href="https://www.facebook.com/WendysPhilippines" target="_blank" title="" aria-label="Facebook" style="color: white"><i class="social-icon social--facebook social-icon social-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://instagram.com/wendysph/" target="_blank" title="" aria-label="Instagram" style="color: white"><i class="social-icon social--instagram social-icon social-instagram" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>© 2021 Quality Is Our Recipe, LLC</p>
+        </div>
+    </footer>
+    
+    <!--  Modal -->
+    <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="LoginModal" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-body login">
+                    <a href="https://www.wendys.com.ph"><img src="https://www.wendys.com.ph/images/wendys-logo.svg" class="d-block mx-auto"></a><br>
+                    <h4>LOGIN</h4>
+                                                            <form action="https://www.wendys.com.ph/login" method="POST">
+                        <input type="hidden" name="_token" value="ovHS2MNkGF3DK8n0GnAcz19CJu2xWTF9PwydbNjA">                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-user-tie"></i></span>
+                            </div>
+                            <input id="login-input-username" name="username" type="text" value="" class="form-control " placeholder="Username" required="" autocomplete="username" style="margin:0;" autofocus="">
+                        </div>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fa fa-key icon"></i></span>
+                            </div>
+                            <input id="login-input-password" type="password" name="password" class="form-control " placeholder="Password" style="margin:0;" required="" autocomplete="current-password">
+                        </div>
+                        <div class="checkbox float-left">
+                            <label><input type="checkbox" name="remember">&nbsp;Remember me</label>
+                        </div>
+                        <a href="https://www.wendys.com.ph/forget-password">
+                            <p class="float-right">Forgot Password?</p>
+                        </a>
+
+                        <br>
+                        <button class="btn btn-primary w-100" id="loginbtn" type="submit">LOGIN</button>
+                        <br>
+                        <p>Not a member yet? <a href="https://www.wendys.com.ph/signup">Sign Up Now</a></p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Your Chat Plugin code -->
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous">
+    </script>
+    <!-- Toastr -->
+    <script src="https://www.wendys.com.ph/plugins/toastr/toastr.min.js"></script>
+	    <!-- SweetAlert2 -->
+    <script src="https://www.wendys.com.ph/plugins/sweetalert2/sweetalert2.min.js"></script>
+    <script src="https://www.wendys.com.ph/js/slider.js"></script>
+    <script type="text/javascript">
+        function openNav() {
+            document.getElementById("myNav").style.height = "100%";
+        }
+        /* Close */
+        function closeNav() {
+            document.getElementById("myNav").style.height = "0%";
+        }
+
+        
+        
+        $("#agreeDPC").click(function() {
+            setLocalStorageDPC()
+        });
+
+		function setLocalStorageDPC() {
+			const now = new Date()
+            const item = {
+                value: 'dpc',
+                expiry: now.getTime() + (1*60*60*1000),
+            }
+            sessionStorage.setItem('dpc', JSON.stringify(item));
+		}
+
+        $(window).on('load', function() {
+            const itemStr = sessionStorage.getItem('dpc');
+			if(itemStr) {
+                console.log('Nothing')
+			} else {
+				$('#privacy').modal('show');
+			}
+        });
+    </script>
+    <script>
+    var chatbox = document.getElementById('fb-customer-chat');
+    chatbox.setAttribute("page_id", "302389279839128");
+    chatbox.setAttribute("attribution", "page_inbox");
+    window.fbAsyncInit = function() {
+        FB.init({
+        xfbml            : true,
+        version          : 'v10.0'
+        });
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div><div class=" fb_iframe_widget fb_invisible_flow" fb-iframe-plugin-query="app_id=&amp;attribution=page_inbox&amp;container_width=1903&amp;current_url=https%3A%2F%2Fwww.wendys.com.ph%2F&amp;is_loaded_by_facade=true&amp;locale=en_US&amp;log_id=310ab0a7-c223-4d1b-a73d-26cdb38ee9c9&amp;page_id=302389279839128&amp;request_time=1668413671846&amp;sdk=joey"><span style="vertical-align: bottom; width: 1000px; height: 0px;"><iframe name="f1ae38267a52b94" width="1000px" height="1000px" data-testid="dialog_iframe" title="" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v10.0/plugins/customerchat.php?app_id=&amp;attribution=page_inbox&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df2caec79a924e5c%26domain%3Dwww.wendys.com.ph%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.wendys.com.ph%252Ff3b58fb4ddbf05c%26relation%3Dparent.parent&amp;container_width=1903&amp;current_url=https%3A%2F%2Fwww.wendys.com.ph%2F&amp;is_loaded_by_facade=true&amp;locale=en_US&amp;log_id=310ab0a7-c223-4d1b-a73d-26cdb38ee9c9&amp;page_id=302389279839128&amp;request_time=1668413671846&amp;sdk=joey" style="padding: 0px; position: fixed; z-index: 2147483646; border-radius: 16px; top: auto; background: none; width: 399px; bottom: 84px; max-height: 0px; right: 16px; height: 373px; visibility: visible; min-height: 0px;" class=" fb_customer_chat_bounce_out_v2"></iframe></span></div><div class="fb_dialog  fb_dialog_advanced" alignment="right" desktop_bottom_spacing="24"><div class="fb_dialog_content"><iframe name="blank_f1ae38267a52b94" width="60px" tabindex="-1" data-testid="bubble_iframe" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v10.0/plugins/customer_chat/bubble" style="background: none; border-radius: 60px; bottom: 24px; box-shadow: rgba(0, 0, 0, 0.15) 0px 4px 12px 0px; display: block; height: 60px; margin: 0px 12px; overflow: visible; padding: 0px; position: fixed; right: 12px; top: auto; width: 60px; z-index: 2147483644;"></iframe><iframe name="availabilityStatus_f1ae38267a52b94" tabindex="-1" data-testid="availabilityStatus_iframe" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v10.0/plugins/customer_chat/bubble" style="border-radius: 50%; bottom: 21.5px; height: 15px; position: fixed; right: 24px; width: 15px; z-index: 2147483646;"></iframe><iframe name="unread_f1ae38267a52b94" tabindex="-1" data-testid="unread_iframe" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v10.0/plugins/customer_chat/bubble" style="background: none; border-radius: 4pt; bottom: 68px; height: 24px; position: fixed; right: 22px; width: 20px; z-index: 2147483645;"></iframe><iframe name="greeting_f1ae38267a52b94" tabindex="-1" data-testid="greeting_iframe" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v10.0/plugins/customer_chat/bubble" style="animation: 3s ease-out 0s 1 normal none running slideInFromBottomDelay; background: none; border-radius: 16px; bottom: 96px; height: 72px; margin-right: 12px; max-height: 0px; padding: 0px; position: fixed; right: 6px; top: auto; width: 247px; z-index: 2147483646; min-height: 0px;"></iframe></div></div></div></body></html>

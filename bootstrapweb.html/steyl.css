@@ -1,0 +1,17 @@
+#logo{
+  align-items: center;
+  float: right;
+    width: 4em;
+    height: 4em;
+}
+.btn-space {
+  margin-right: 5px;
+}
+
+body { background: rgba(245, 243, 220, 0.932) !important; }
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}

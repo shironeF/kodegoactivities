@@ -1,0 +1,50 @@
+.body{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.whole{
+    margin: 300px 430px;
+    border: 5px solid black;
+
+}
+
+
+header{
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+}
+nav{
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+}
+section{
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+    width: 90px;
+    height: 50px;
+}
+article{
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+    width: 90px;
+    height: 50px;
+}
+aside{
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+    
+}
+footer{
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+
